@@ -47,5 +47,4 @@
         echo "uwhxt";
         echo "xvmwu";
         echo "lwiak";
-        echo "ujylx";
 ?>
