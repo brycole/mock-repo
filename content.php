@@ -62,5 +62,4 @@
         echo "sfttj";
         echo "vtulx";
         echo "qxasf";
-        echo "wxqrd";
 ?>
